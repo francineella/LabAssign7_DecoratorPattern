@@ -14,10 +14,12 @@ Description of the following methods
 
 showAccountType() - Either returns "Savings Account", "GSave" or "UpSave"
 getInterestRate() - Either returns 1% for Savings Account; 2.5% for GSave; 4.0% UpSave
+
 getBalance() - Returns the balance of the account set.
+
 showBenefits() - Either returns "Standard Savings Account" for Savings Account;
-		    benefits offered by savings account + "GSave Transfer";
-                            benefits offered by savings account + "With Insurance";
+		benefits offered by savings account + "GSave Transfer";
+  		benefits offered by savings account + "With Insurance";
 computeBalanceWithInterest() - returns new balance by computing the balance plus the interest depending on the interest rate.
 showInfo() - Returns details of account number, account name, and balance.
 
