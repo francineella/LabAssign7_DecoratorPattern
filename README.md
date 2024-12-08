@@ -26,3 +26,5 @@ showAccountType() - Either returns "Savings Account", "GSave" or "UpSave"
     showInfo() - Returns details of account number, account name, and balance.
 
 BankAcountDecorator must be an interface.
+# UML Class Diagram
+<img width="551" alt="UML Class DIagram_Decorator Pattern" src="https://github.com/user-attachments/assets/df0646e7-dc90-40ec-af77-5588f9d8f73a">
